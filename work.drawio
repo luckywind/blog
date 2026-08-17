@@ -11,16 +11,22 @@
           <mxGeometry height="180" width="90" x="90" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Gl49OAW4328A4Dnd6-Ai-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Connectx-5" vertex="1">
-          <mxGeometry height="30" width="80" x="90" y="420" as="geometry" />
+          <mxGeometry height="30" width="80" x="180" y="330" as="geometry" />
         </mxCell>
         <mxCell id="HHcvAd_QzjKcvptsUtCM-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/infrastructure/1/Server-107.svg" value="" vertex="1">
           <mxGeometry height="180" width="90" x="450" y="240" as="geometry" />
         </mxCell>
         <mxCell id="HHcvAd_QzjKcvptsUtCM-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3100R" vertex="1">
-          <mxGeometry height="30" width="60" x="440" y="420" as="geometry" />
+          <mxGeometry height="30" width="60" x="384" y="330" as="geometry" />
         </mxCell>
         <mxCell id="HHcvAd_QzjKcvptsUtCM-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RDMA" vertex="1">
           <mxGeometry height="30" width="60" x="260" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="HHcvAd_QzjKcvptsUtCM-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Intel" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HHcvAd_QzjKcvptsUtCM-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Intel" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
